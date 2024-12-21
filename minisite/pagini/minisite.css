@@ -1,0 +1,150 @@
+body {
+    background-color: rgb(236, 236, 156);
+}
+#nav{
+    display: inline-block;
+    padding-right:280px;
+}
+li{ 
+    margin-bottom: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-size: 18px;
+}
+a{
+    color: green;
+}
+.pupin{
+  border-radius: 5px 5px 5px 5px;
+  border: solid;
+  border-color: rgb(251, 247, 44);
+}
+.intro{
+    display: inline-block;
+    width: 330px;
+    padding: 110px;
+}
+#name{
+    color: olive;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.intro p{
+    font-style: italic;
+    color: rgb(120, 175, 9);
+    font-size: 17px;
+}
+#pagini{
+    display: inline-block;
+    width: 200px;
+    padding: 20px;   
+}
+.life{
+    display: inline-block; 
+    width: 450px; 
+    padding: 40px;
+      
+}
+.school{
+    display: inline-block;
+    width: 450px;
+    padding: 40px;
+}
+.life h1{
+    color: olive;
+    font-size: 37px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.life h2{
+    color: orange;
+    font-size: 28px;
+}
+.school h2{
+    color: orange;
+    font-size: 28px;
+}
+.life p{
+    font-style: italic;
+    color: rgb(120, 175, 9);
+    font-size: 17px;
+}
+.school p{
+    font-style: italic;
+    color: rgb(120, 175, 9);
+    font-size: 17px;
+}
+.university{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-radius: 5px 5px 5px 5px;
+    border-color: orange;
+}
+#coils {
+    display: inline-block;
+    padding-right:220px;
+}
+.pcoils{
+    display: inline-block;
+    width: 400px;
+    padding: 80px;
+}
+.work {
+    border-radius: 5px 5px 5px 5px;
+    border: solid;
+    border-color: rgb(7, 87, 11);
+    margin-top: 100px;
+}
+.pcoils h1{
+    color: olive;
+    font-size: 37px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.pcoils p{
+    font-style: italic;
+    color: rgb(120, 175, 9);
+    font-size: 20px;
+}
+table tr th{
+    border: 2px green dotted;
+    padding: 20px;
+    background-color: yellowgreen;
+}
+table tr td{
+    color: rgb(30, 47, 5);
+    background-color: rgb(240, 194, 39);
+    border: 2px solid yellowgreen;
+}
+#tabel{
+    display: inline-block;
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
+#tabel td{
+    color: rgb(100, 147, 6);
+}
+#tabel th{
+    color: yellow;
+}
+section{
+    display: inline-block;
+    width: 770px;
+}
+section h1{
+    color: olive;
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif; 
+}
+section p{
+    font-style: italic;
+    color: rgb(120, 175, 9);
+    font-size: 16px;
+}
+
+    
+
+
+
+
